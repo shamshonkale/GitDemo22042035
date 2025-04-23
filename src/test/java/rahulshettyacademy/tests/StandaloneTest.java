@@ -28,6 +28,8 @@ public class StandaloneTest
 		driver.findElement(By.id("login")).click();
 		
 		//explicit wait
+		//sam github
+		System.out.println("Git Hub");
 		WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(5));
 		//waiting to load all products
 		//or to wait until a specific element is visible on the web page before interacting with it

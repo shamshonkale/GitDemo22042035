@@ -25,6 +25,8 @@ public class StepDefinitionImpl extends BaseTest{
 	public void I_landed_on_Ecommerce_Page() throws IOException
 	{
 		landingPage = launchApplication();
+		//sam github
+		System.out.println("Application launched...!");
 		//code
 	}
 
