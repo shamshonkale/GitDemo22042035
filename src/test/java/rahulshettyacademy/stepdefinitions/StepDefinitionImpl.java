@@ -26,7 +26,7 @@ public class StepDefinitionImpl extends BaseTest{
 	{
 		landingPage = launchApplication();
 		//sam github
-		System.out.println("develop branch Application launched...!");
+		System.out.println("develop branch Application is launched...!");
 		//code
 	}
 
