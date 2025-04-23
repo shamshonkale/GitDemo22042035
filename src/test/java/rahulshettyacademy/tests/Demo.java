@@ -18,6 +18,7 @@ public class Demo
 {
 	public static void main(String[] args) throws InterruptedException
 	{
+		System.out.println("git dev 1");
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
